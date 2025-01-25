@@ -1,0 +1,8 @@
+.main-component-wrapper {
+  padding: 1rem 7rem;
+  background-color: var(--background-color);
+}
+
+.about-me-main {
+  height: calc(100vh - 3rem);
+}
