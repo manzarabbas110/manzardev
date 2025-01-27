@@ -17,7 +17,7 @@ html {
     --text-color: "#333";
     --border-color: black;
     --hover-text-color: whitesmoke;
-    --background-color: white;
+    --background-color: rgb(242, 205, 239);
     --name-dot: orangered;
     --border-bottom: grey;
 }
